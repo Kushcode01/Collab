@@ -5,4 +5,4 @@
 // (https://hub.docker.com/r/convergencelabs/convergence-omnibus)
 // 
 // These are the relevant parts of the URL: http://<host>:<host-port>/api/realtime/<namespace>/<domainId>
-var DOMAIN_URL = "http://localhost:8080/convergence/default";
+var DOMAIN_URL = "http://10.36.179.208:8080/convergence/default";
